@@ -1,0 +1,20 @@
+:root, body {
+  font-family: var(--font-family);
+  background-color: #0F172A;
+  margin: 0;
+  padding: 0;
+
+  --primary-colour: #0F172A;
+  --primary-lighter-colour: #1C2C50;
+  --primary-highlighted-colour: #233663;
+  --secondary-colour: #E11D48;
+  --secondary-lighter-colour: #e5335a;
+  --sidebar-colour: #16213D;
+  --text-colour: #F1F5F9;
+
+  --font-family: "Inter", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
